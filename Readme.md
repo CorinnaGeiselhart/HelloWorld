@@ -1,1 +1,1 @@
-Run "Main" to start the "Hello World" project.
+Run "Main.java" to start the "Hello World" project.
