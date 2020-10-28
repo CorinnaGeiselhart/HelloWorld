@@ -1,5 +1,8 @@
 <img src="HelloWorld.PNG" width="100" height="100">
-Requirements:
+---
+
+## Requirements:
 - Java development environment 
-Start the application: 
+
+## Start the application: 
 - Run "Main.java" to start the "Hello World" 
