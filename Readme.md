@@ -1,4 +1,4 @@
-<img src="HelloWorld.PNG" width="100" height="100">
+![Hello World](HelloWorld.PNG)
 ---
 
 ## Requirements:
